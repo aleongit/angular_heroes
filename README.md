@@ -29,6 +29,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 
 
 0. [Create a new project](md/0.md)
+1. [The hero editor](md/1.md)
 
 
 
