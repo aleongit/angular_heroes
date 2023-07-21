@@ -82,26 +82,3 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 
 ### angular
 - https://angular.io
-- https://angular.io/start
-- https://angular.io/guide/setup-local
-- https://angular.io/api/core/NgModule
-- https://angular.io/api/core/Component
-- https://angular.io/api/core/Input
-- https://angular.io/guide/inputs-outputs
-- https://angular.io/guide/property-binding
-- https://angular.io/guide/interpolation
-- https://angular.io/guide/built-in-directives
-- https://angular.io/guide/built-in-directives#ngFor
-- https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application
-- https://angular.io/guide/router-tutorial
-- https://angular.io/guide/template-reference-variables
-
-
-
-### typescript
-- https://www.typescriptlang.org/docs/handbook/interfaces.html
-
-
-
-### npm
-- https://www.npmjs.com/package/json-server
