@@ -30,7 +30,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 
 0. [Create a new project](md/0.md)
 1. [The hero editor](md/1.md)
-
+2. [Display a selection list](md/2.md)
 
 
 
@@ -74,22 +74,27 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 
 
 
-
 ## Doc
 
 ### angular - tutorial
 - https://angular.io/tutorial/tour-of-heroes/toh-pt0
 - https://angular.io/tutorial/tour-of-heroes/toh-pt1
+- https://angular.io/tutorial/tour-of-heroes/toh-pt2
 
 
 ### angular - guide
 - https://angular.io/guide/setup-local
 - https://angular.io/guide/pipes
 - https://angular.io/guide/ngmodules
+- https://angular.io/guide/accessibility
+- https://angular.io/guide/event-binding
+- https://angular.io/guide/class-binding
 
 
 ### angular - api
 - https://angular.io/api/core/Component
 - https://angular.io/api/common/UpperCasePipe
+- https://angular.io/api/common/NgFor
+- https://angular.io/api/common/NgIf
 - https://angular.io/api/forms/NgModel
 - https://angular.io/api/forms/FormsModule
