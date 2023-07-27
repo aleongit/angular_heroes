@@ -77,9 +77,19 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 
 ## Doc
 
-### node
-- https://nodejs.org/en/download
+### angular - tutorial
+- https://angular.io/tutorial/tour-of-heroes/toh-pt0
+- https://angular.io/tutorial/tour-of-heroes/toh-pt1
 
 
-### angular
-- https://angular.io
+### angular - guide
+- https://angular.io/guide/setup-local
+- https://angular.io/guide/pipes
+- https://angular.io/guide/ngmodules
+
+
+### angular - api
+- https://angular.io/api/core/Component
+- https://angular.io/api/common/UpperCasePipe
+- https://angular.io/api/forms/NgModel
+- https://angular.io/api/forms/FormsModule
