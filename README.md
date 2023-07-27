@@ -31,6 +31,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 0. [Create a new project](md/0.md)
 1. [The hero editor](md/1.md)
 2. [Display a selection list](md/2.md)
+3. [Create a feature component](md/3.md)
 
 
 
@@ -80,6 +81,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/tutorial/tour-of-heroes/toh-pt0
 - https://angular.io/tutorial/tour-of-heroes/toh-pt1
 - https://angular.io/tutorial/tour-of-heroes/toh-pt2
+- https://angular.io/tutorial/tour-of-heroes/toh-pt3
 
 
 ### angular - guide
@@ -89,12 +91,17 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/guide/accessibility
 - https://angular.io/guide/event-binding
 - https://angular.io/guide/class-binding
+- https://angular.io/guide/property-binding
+- https://angular.io/guide/inputs-outputs
 
 
 ### angular - api
 - https://angular.io/api/core/Component
+- https://angular.io/api/core/Input
+
 - https://angular.io/api/common/UpperCasePipe
 - https://angular.io/api/common/NgFor
 - https://angular.io/api/common/NgIf
+
 - https://angular.io/api/forms/NgModel
 - https://angular.io/api/forms/FormsModule
