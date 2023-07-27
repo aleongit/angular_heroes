@@ -32,6 +32,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 1. [The hero editor](md/1.md)
 2. [Display a selection list](md/2.md)
 3. [Create a feature component](md/3.md)
+4. [Add services](md/4.md)
 
 
 
@@ -82,6 +83,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/tutorial/tour-of-heroes/toh-pt1
 - https://angular.io/tutorial/tour-of-heroes/toh-pt2
 - https://angular.io/tutorial/tour-of-heroes/toh-pt3
+- https://angular.io/tutorial/tour-of-heroes/toh-pt4
 
 
 ### angular - guide
@@ -93,15 +95,21 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/guide/class-binding
 - https://angular.io/guide/property-binding
 - https://angular.io/guide/inputs-outputs
+- https://angular.io/guide/dependency-injection
+- https://angular.io/guide/providers
+- https://angular.io/guide/lifecycle-hooks
+- https://angular.io/guide/understanding-communicating-with-http
 
 
 ### angular - api
 - https://angular.io/api/core/Component
 - https://angular.io/api/core/Input
+- https://angular.io/api/core/Injectable
 
 - https://angular.io/api/common/UpperCasePipe
 - https://angular.io/api/common/NgFor
 - https://angular.io/api/common/NgIf
+- https://angular.io/api/common/http/HttpClient
 
 - https://angular.io/api/forms/NgModel
 - https://angular.io/api/forms/FormsModule
