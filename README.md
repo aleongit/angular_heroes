@@ -34,6 +34,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 3. [Create a feature component](md/3.md)
 4. [Add services](md/4.md)
 5. [Add navigation with routing](md/5.md)
+6. [Get data from a server](md/6.md)
 
 
 
@@ -43,7 +44,12 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 → v18.16.0
 
 🖥️ npm -v
-→ 9.8.0
+→ 9.8.1
+
+
+## Dependencies
+
+- Angular in-memory-web-api
 
 
 
@@ -86,6 +92,7 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/tutorial/tour-of-heroes/toh-pt3
 - https://angular.io/tutorial/tour-of-heroes/toh-pt4
 - https://angular.io/tutorial/tour-of-heroes/toh-pt5
+- https://angular.io/tutorial/tour-of-heroes/toh-pt6
 
 
 
@@ -112,11 +119,18 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/api/core/OnInit
 
 - https://angular.io/api/common/CommonModule
-- https://angular.io/api/common/UpperCasePipe
 - https://angular.io/api/common/NgFor
 - https://angular.io/api/common/NgIf
-- https://angular.io/api/common/http/HttpClient
+- https://angular.io/api/common/UpperCasePipe
+- https://angular.io/api/common/AsyncPipe
 - https://angular.io/api/common/Location
+- https://angular.io/api/common/http/HttpClientModule
+- https://angular.io/api/common/http/HttpClient
+- https://angular.io/api/common/http/HttpClient#get
+- https://angular.io/api/common/http/HttpClient#put
+- https://angular.io/api/common/http/HttpClient#post
+- https://angular.io/api/common/http/HttpHeaders
+
 
 - https://angular.io/api/forms/NgModel
 - https://angular.io/api/forms/FormsModule
@@ -126,3 +140,12 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/api/router/RouterOutlet
 - https://angular.io/api/router/RouterLink
 - https://angular.io/api/router/ActivatedRoute
+
+
+### Angular in-memory-web-api
+- https://github.com/angular/angular/tree/main/packages/misc/angular-in-memory-web-api
+
+
+### RxJS
+- https://rxjs.dev/
+- https://www.learnrxjs.io/learn-rxjs/operators/transformation/switchmap
