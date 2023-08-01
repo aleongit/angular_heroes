@@ -117,7 +117,6 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/api/core/Input
 - https://angular.io/api/core/Injectable
 - https://angular.io/api/core/OnInit
-
 - https://angular.io/api/common/CommonModule
 - https://angular.io/api/common/NgFor
 - https://angular.io/api/common/NgIf
@@ -130,11 +129,8 @@ This tutorial helps you gain confidence that Angular can do whatever you need it
 - https://angular.io/api/common/http/HttpClient#put
 - https://angular.io/api/common/http/HttpClient#post
 - https://angular.io/api/common/http/HttpHeaders
-
-
 - https://angular.io/api/forms/NgModel
 - https://angular.io/api/forms/FormsModule
-
 - https://angular.io/api/router/RouterModule
 - https://angular.io/api/router/Routes
 - https://angular.io/api/router/RouterOutlet
